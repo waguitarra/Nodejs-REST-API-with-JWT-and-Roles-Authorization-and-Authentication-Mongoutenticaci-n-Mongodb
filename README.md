@@ -1,2 +1,11 @@
-# Nodejs-REST-API-with-JWT-and-Roles-Authorization-and-Authentication-Mongoutenticaci-n-Mongodb
-Creating a simple Api Rest project with Node.js authentication services Jwt/MongoDB Atlas/Swagger
+# Company API Project
+a educational API with Javascript and related technologies (ES6+, mongodb, etc)
+
+# Environment variables
+- PORT, the default port is 3000
+- MONGODB_URI, the default MONGODB URI
+
+# Recommended services
+* Heroku
+* Mongodb Atlas. Put a username, password and db name
+* DigitalOcean
